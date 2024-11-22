@@ -1,0 +1,4 @@
+ID, Name, Address, Phone
+18, Rahma, Jl.Pekasam, 08129839212
+19, Abdul, Jl. HM Arsyad, 08767123123412
+20, AASDS, asdas, 08121231
